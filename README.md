@@ -8,5 +8,5 @@ After signing up to Replicate, you can access your API token from [this page](ht
 
 Use the following command
 
-1. pip install -requirements.txt
+1. pip install -r requirements.txt
 2. streamlit run streamlit_app_v3.py
