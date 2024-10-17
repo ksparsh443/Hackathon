@@ -13,7 +13,7 @@ Use the following command
 
 # Magical Bot
 
-Welcome to **Magical Bot**, an innovative Progressive Web App (PWA) that harnesses the power of cutting-edge AI technologies to create a seamless and engaging user experience. 
+Welcome to **Magical Bot**, an innovative tool that harnesses the power of cutting-edge AI technologies to create a seamless and engaging user experience. Like Alexa for kids. 
 
 ## Overview
 
