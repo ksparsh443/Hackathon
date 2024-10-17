@@ -14,6 +14,6 @@ Use the following command
 
 
 ## Video Overview
-[Watch the video](https://youtu.be/ukEWOBtW8FY?si=r5WSylKSjrkdyRGV)
 
+[![Watch the video](https://img.youtube.com/vi/ukEWOBtW8FY/0.jpg)](https://youtu.be/ukEWOBtW8FY?si=r5WSylKSjrkdyRGV)
 
